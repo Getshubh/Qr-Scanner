@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QR Scanner </string>
+    <string name="scan_qr_code">Scan Qr Code</string>
+    <string name="turn_on_flash">Turn on the Flash</string>
+    <string name="turn_off_flash">Turn off the Flash</string>
+    <string name="qrcode_wifi">QrCode: Wifi</string>
+    <string name="qrcode_details">QrCode Details</string>
+    <string name="driver_liscense">QrCode: Driving Liscense</string>
+    <string name="qrcode_ssid">SSID : </string>
+    <string name="qrcode_security">Security : </string>
+    <string name="qrcode_password">Password : </string>
+    <string name="qrcode_name">Name : </string>
+    <string name="qrcode_last_name">Last Name : </string>
+    <string name="qrcode_license_no">License No : </string>
+    <string name="qrcode_birthdate">BirthDate : </string>
+    <string name="qrcode_dl_exp">D.L. Expiry Date :</string>
+    <string name="qrcode_text">QrCode Text</string>
+    <string name="text">Text</string>
+    <string name="internet_connection_needed">Please connect to internet and try after some time.</string>
+</resources>

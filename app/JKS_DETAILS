@@ -1,0 +1,4 @@
+         keyAlias 'Getshubh'
+            keyPassword 'Getshubh@7'
+            storeFile file('C:\\Users\\ss00683182\\Desktop\\apk\\qrscanner.jks')
+            storePassword 'Getshubh@7'
